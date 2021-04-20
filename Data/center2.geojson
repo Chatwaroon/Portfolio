@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "center2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::32648" } },
+"features": [
+
+]
+}
